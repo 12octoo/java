@@ -1,2 +1,5 @@
-public class Javatest(){
-   public static void
+public class Javatest{
+   public static void main(String[] args){
+      int x=50;
+      int y=100;
+   
